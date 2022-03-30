@@ -1,0 +1,28 @@
+C:\Users\Asus\source\repos\30.03.22\30.03.22\bin\Debug\netcoreapp3.1\30.03.22.exe
+C:\Users\Asus\source\repos\30.03.22\30.03.22\bin\Debug\netcoreapp3.1\30.03.22.deps.json
+C:\Users\Asus\source\repos\30.03.22\30.03.22\bin\Debug\netcoreapp3.1\30.03.22.runtimeconfig.json
+C:\Users\Asus\source\repos\30.03.22\30.03.22\bin\Debug\netcoreapp3.1\30.03.22.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\30.03.22\30.03.22\bin\Debug\netcoreapp3.1\30.03.22.dll
+C:\Users\Asus\source\repos\30.03.22\30.03.22\bin\Debug\netcoreapp3.1\30.03.22.pdb
+C:\Users\Asus\source\repos\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.AssemblyInfo.cs
+C:\Users\Asus\source\repos\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.dll
+C:\Users\Asus\source\repos\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.pdb
+C:\Users\Asus\source\repos\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.genruntimeconfig.cache
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\bin\Debug\netcoreapp3.1\30.03.22.exe
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\bin\Debug\netcoreapp3.1\30.03.22.deps.json
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\bin\Debug\netcoreapp3.1\30.03.22.runtimeconfig.json
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\bin\Debug\netcoreapp3.1\30.03.22.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\bin\Debug\netcoreapp3.1\30.03.22.dll
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\bin\Debug\netcoreapp3.1\30.03.22.pdb
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.AssemblyInfo.cs
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.dll
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.pdb
+C:\Users\Asus\Desktop\new task\30.03.22\30.03.22\obj\Debug\netcoreapp3.1\30.03.22.genruntimeconfig.cache
